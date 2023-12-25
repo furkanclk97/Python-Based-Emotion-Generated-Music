@@ -1,4 +1,4 @@
-Code was explained at Proje_Furkan_GIT
+Code was explained at Proje_Furkan_GIT.pdf
 
 The Emotion dataset That I've used 
 https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset/
